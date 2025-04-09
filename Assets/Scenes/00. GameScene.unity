@@ -2660,14 +2660,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerHp: 100
   playerMp: 50
-  playerAtk: 1400000028000000
-  playerCost: 0000000014000000
+  playerAtk: 140000002800000064000000
+  playerCost: 000000001400000032000000
   effectName:
-  - 
-  - 
+  - Particles/Hit_1
+  - Particles/Hit_2
+  - Particles/Hit_2
   audio:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 781541993}
+  - {fileID: 2112063043}
+  - {fileID: 2112063043}
   canAttack: 1
   enemy: {fileID: 1949212312}
   uiUserInfo: {fileID: 1526831249}
